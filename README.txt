@@ -1,0 +1,1 @@
+README: Use Python 2.7 with Pygame and download the image and levels folder. Run GameEngine.py and you're good to go.
